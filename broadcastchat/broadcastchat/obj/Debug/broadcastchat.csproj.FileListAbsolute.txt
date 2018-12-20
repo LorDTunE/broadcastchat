@@ -1,0 +1,7 @@
+c:\users\administratör\source\repos\broadcastchat\broadcastchat\bin\Debug\broadcastchat.exe.config
+c:\users\administratör\source\repos\broadcastchat\broadcastchat\bin\Debug\broadcastchat.exe
+c:\users\administratör\source\repos\broadcastchat\broadcastchat\bin\Debug\broadcastchat.pdb
+c:\users\administratör\source\repos\broadcastchat\broadcastchat\obj\Debug\broadcastchat.csprojAssemblyReference.cache
+c:\users\administratör\source\repos\broadcastchat\broadcastchat\obj\Debug\broadcastchat.csproj.CoreCompileInputs.cache
+c:\users\administratör\source\repos\broadcastchat\broadcastchat\obj\Debug\broadcastchat.exe
+c:\users\administratör\source\repos\broadcastchat\broadcastchat\obj\Debug\broadcastchat.pdb
